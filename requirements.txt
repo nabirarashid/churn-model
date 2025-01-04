@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+tensorflow
+numpy
+
+# https://stackoverflow.com/questions/71000250/import-tensorflow-keras-could-not-be-resolved-after-upgrading-to-tensorflow-2
